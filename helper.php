@@ -1,8 +1,8 @@
 <?php
 
-$base_url = 'http://localhost/unitama/';
+$base_url = 'http://localhost/hotel/';
 
-$koneksi = mysqli_connect('localhost', 'root', '', 'unitama');
+$koneksi = mysqli_connect('localhost', 'root', '', 'hotel');
 
 session_start();
 

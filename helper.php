@@ -1,6 +1,6 @@
 <?php
 
-$base_url = 'http://localhost/hotel/';
+$base_url = 'http://localhost/hotelmurah/';
 
 $koneksi = mysqli_connect('localhost', 'root', '', 'hotel');
 
